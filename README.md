@@ -3,7 +3,7 @@
 **PointQuality** is a package for computing quality metrics to compare point clouds.
 
 
-Especially useful when evaluating reconstructed point clouds where only the relative spatial relationships are preserved (as opposed to the affine transformations of translation, rotation, chirality, and scale). 
+Especially useful when evaluating reconstructed point clouds where only the relative spatial relationships are preserved (up to the affine transformations of translation, rotation, chirality, and scale). 
 
 
 # Metrics
