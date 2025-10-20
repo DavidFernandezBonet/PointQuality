@@ -57,7 +57,7 @@ reconstructed_points = original_points + np.random.normal(scale=0.05, size=(100,
 
 # Evaluate local quality metrics
 qm = QualityMetrics(original_points, reconstructed_points)
-metrics_dict = qm.evaluate_metrics(compute_distortion=True)
+metrics_dict = qm.evaluate_metrics(compute_distortion=False)
 print(metrics_dict)
 ```
 
