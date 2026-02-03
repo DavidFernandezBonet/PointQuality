@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='PointQuality',
-    version='0.1.0',
+    version='0.1.2',
     description='Compute local and global quality metrics for comparing point clouds',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/PointQuality',  # Update with your project URL
+    author='David Fernandez Bonet',
+    author_email='davferdz@gmail.com',
+    url='https://github.com/DavidFernandezBonet/PointQuality',  # Update with your project URL
     packages=find_packages(),
     install_requires=[
         'numpy',

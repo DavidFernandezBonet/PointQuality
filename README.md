@@ -1,4 +1,6 @@
 # PointQuality
+![Quality Metrics Example](PointQuality_package/examples/quality_metrics_illustrative_example.png)
+
 
 **PointQuality** is a package for computing quality metrics to compare point clouds.
 
