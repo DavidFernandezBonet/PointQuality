@@ -7,7 +7,7 @@
 
 Especially useful when evaluating reconstructed point clouds where only the relative spatial relationships are preserved (up to the affine transformations of translation, rotation, chirality, and scale). 
 
-<img src="examples/quality_metrics.png" width="500">
+<img src="examples/quality_metrics.png" width="800">
 
 <img src="examples/quality_metrics_illustrative_example.png" width="500">
 
