@@ -7,9 +7,10 @@
 
 Especially useful when evaluating reconstructed point clouds where only the relative spatial relationships are preserved (up to the affine transformations of translation, rotation, chirality, and scale). 
 
-![How are Quality Metrics computed?](examples/quality_metrics.png)
-![Quality Metrics Example](examples/quality_metrics_illustrative_example.png)
-# Metrics
+<img src="examples/quality_metrics.png" width="500">
+
+<img src="examples/quality_metrics_illustrative_example.png" width="500">
+
 - **Local Metrics:**
   - **KNN Metric:** Compare the nearest neighbors between original and reconstructed point clouds.
   - **GTA KNN Metric:** Compute neighborhood preservation using a ground truth graph.
